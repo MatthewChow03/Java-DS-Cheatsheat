@@ -3,9 +3,11 @@ package main.java;
 import java.util.*;
 
 // Improvements:
-// Picks the pivot randomly in the middle for better time complexity
+// Pick the pivot randomly for better time complexity
     // This minimizes the times that O(n^2) occurs
-    // O(n^2) occurs when array is nearly sorted or reverse sorted
+    // O(n^2) occurs when array is nearly sorted or reverse sorted (pivot is largest or smallest item)
+    // Imagine if you pick worst case, it will create a one sided recursive tree
+    // Imagine the pivot is the median every time, it will create an evenly split recursive tree for O(nlogn)
 // Separates partitioning into another method
 // Overload quicksort method: same name, different parameters
 
