@@ -2,6 +2,35 @@ package main.java;
 
 import java.util.*;
 
+// Algorithm:
+// Pick a pivot, ideally a value that is close to the median, a random value will average O(nlogn)
+    // The pivot will be used to split the array into two sides: values less than pivot and greater than pivot
+    // Move the pivot to the end of the array to get it out of the way
+// Sort a pair
+    // Starting from the left, find the first value greater than the pivot
+    // Starting from the right, find the first value less than the pivot
+    // Swap the two values
+    // Keep doing this, moving the left pointer and right pointer towards each other until they meet
+// Once the left and right pointer are at the same index, swap the pivot for the overlapping index
+// Now, to the left and right of the pivot, there are two sub arrays
+// Recursively do the above to each sub array
+
+// Example:
+// 54832716     // let's make 5 the pivot by switching it with the last value
+// 64832715     // first value from the left greater than pivot: 6
+                // first value from the right less than pivot: 1
+                // swap 6 and 1
+// 14832765     // again, left = 8, right = 2, swap
+                // note, left pointer is at 8, right pointer is at 2
+// 14238765     // left pointer will now look for number greater than pivot
+                // left pointer hits right pointer at the value 8
+                // since the pointers are at the same index the ordering is over
+                // swap 8 with pivot
+// 12345768     // split into sub arrays at the pivot, don't include the pivot since it is in the final position
+// 1234 5 768   // recursively quicksort the sub arrays (spaces here are just visual concept)
+// 1234 5 678   // finished (the spaces were never there)
+// 12345678
+
 // Improvements:
 // Pick the pivot randomly for better time complexity
     // This minimizes the times that O(n^2) occurs
