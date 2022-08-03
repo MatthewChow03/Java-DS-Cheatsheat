@@ -15,6 +15,8 @@ public class Overloading {
 
         paul.growOlder(10);
         System.out.println(paul);
-        //devTest comment
+
+        // Object as parameter
+        System.out.println("Paul is older than Ada: " + paul.olderThan(ada));
     }
 }

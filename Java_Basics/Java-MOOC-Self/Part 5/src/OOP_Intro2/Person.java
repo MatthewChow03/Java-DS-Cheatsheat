@@ -6,6 +6,8 @@
  *
  * There is also method overloading with the growOlder() method
  *
+ * Using an object of same class as a method parameter
+ *
  */
 
 package OOP_Intro2;
@@ -42,6 +44,15 @@ public class Person {
 
     public void growOlder(int years) {
         this.age = this.age + years;
+    }
+
+    // Object of same type as parameter
+    public boolean olderThan(Person comparePerson) {
+        if(this.age > comparePerson.age) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     @Override

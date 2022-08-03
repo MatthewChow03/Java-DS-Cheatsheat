@@ -2,7 +2,7 @@
  * Topics:
  *
  * Instance/private variables
- * Protected variables
+ * Protected variables (formally called access modifiers)
  * Encapsulation
  * Constructor
  * Public/private methods
