@@ -1,0 +1,17 @@
+run tab             alt + 4
+project tab         alt + 1
+structure tab       alt + 7
+
+switch tabs         ctrl + tab
+
+duplicate line      ctrl + d
+delete line         ctrl + y
+move line           ctrl + shift + arrow
+expand selection    ctrl + w
+
+more actions        alt + enter
+command search      shift + shift
+search file         ctrl + f
+
+run code            shift + f10
+
