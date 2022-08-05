@@ -8,6 +8,7 @@ duplicate line      ctrl + d
 delete line         ctrl + y
 move line           ctrl + shift + arrow
 expand selection    ctrl + w
+go to line          ctrl + g
 
 more actions        alt + enter
 command search      shift + shift
