@@ -30,6 +30,9 @@
  *
  * In EfficientMain.java there is user input and HashMap looping
  *
+ * Checking equality of objects in Book.java
+ *      Override the original equals method which checks if two references point to the same address
+ *
  */
 
 package HashMaps;
