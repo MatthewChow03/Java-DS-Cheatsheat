@@ -3,6 +3,8 @@ project tab         alt + 1
 structure tab       alt + 7
 
 switch tabs         ctrl + tab
+close code tab      ctrl + f4
+close side tab      shift + esc
 
 duplicate line      ctrl + d
 delete line         ctrl + y
