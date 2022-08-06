@@ -7,16 +7,7 @@
 6. String 
 7. Set
 
-
-**Format:** Map -> V get(k1)
-
-get : method
-
-k1 : accept key as an value
-
-V : return datatype
-
-### Map // collection
+### Map
 1. Definition ->Map<K, V> map = new HashMap<>();
 2. insert / update -> V put(k1, v1); // TC: O(1)
 3. delete -> V remove(k1); // TC: O(1)
