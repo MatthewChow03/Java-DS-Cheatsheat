@@ -3,7 +3,7 @@
  * Topics:
  *
  * Functional interface
- *      Interface with 1 abstract method only (could have more)
+ *      Interface with 1 abstract method only (could have more
  *      Annotation is just for best practice
  *          Compiler will enforce it to have 1 abstract method
  *
@@ -37,7 +37,7 @@ package LambdaExpressions;
 // Interface with 1 abstract method is called a functional interface
 @FunctionalInterface
 interface StringFunction {
-    String run(String str);     // abstract method (only declaration)
+    String run(String str);
 }
 
 public class LambdaNotes {
