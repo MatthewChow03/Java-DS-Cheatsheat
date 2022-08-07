@@ -34,5 +34,6 @@
 
 package Interface;
 
-public class InterfaceNotes {
+interface InterfaceNotes {
+    // your code here
 }
