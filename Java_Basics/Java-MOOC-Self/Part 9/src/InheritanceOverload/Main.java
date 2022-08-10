@@ -17,8 +17,8 @@ package InheritanceOverload;
 
 public class Main {
     public static void main(String[] args) {
-        Superclass sup = new Superclass();
-        Subclass sub = new Subclass();
+        Superclass sup = new Superclass();  // will call super() and since there is no param it will use the first constructor (see Superclass.java)
+        Subclass sub = new Subclass();      // will call super(param) and since there is a param it will use the second constructor (see Superclass.java)
 
         System.out.println(sup);
         System.out.println(sub);

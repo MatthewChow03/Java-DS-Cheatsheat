@@ -75,6 +75,10 @@ This folder contains course notes and examples. A large "topics" comment is foun
 
 ### Part 10
 
-- Streams
-  - Streams with objects
-- Lambda expressions
+- [Streams]()
+  - [Streams with objects]()
+- [Lambda expressions]()
+- Comparable interface (sorting objects)
+  - [compareTo() to use sorted() and Collections.sort()]()
+  - [Lambda expression as parameter for sorted() and Collections.sort()]()
+  - [Comparator class for multiple sorting criterion]()

@@ -32,8 +32,9 @@ public class Main {
         // Print all birthdays before 1980
         // Notice this has no return value, it's just performing a pipeline operation
         books.stream()
-                .map(book -> book.getAuthor())
-                .mapToInt(author -> author.getBirthYear())
+                .map(Book::getAuthor)   // this does the same thing as book -> book.getAuthor() in the form class::method
+                                               // the :: replaces the lambda expression
+                .mapToInt(Person::getBirthYear)
                 .filter(value -> value < 1980)
                 // .sorted()    // sorts stream into natural order
                 .forEach(name -> System.out.println(name));
