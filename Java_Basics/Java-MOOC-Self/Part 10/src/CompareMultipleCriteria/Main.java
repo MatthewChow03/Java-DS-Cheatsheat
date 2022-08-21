@@ -19,7 +19,7 @@ public class Main {
         films.add(new Film("C", 2001));
         films.add(new Film("D", 2000));
 
-        for (Film e: films) {
+        for (Film e : films) {
             System.out.println(e);
         }
 
@@ -28,6 +28,9 @@ public class Main {
                 .thenComparing(Film::getName);
 
         Collections.sort(films, comparator);
+
+        // Or shorter version
+        //films.sort(Comparator.comparing(Film::getReleaseYear).thenComparing(Film::getName));
 
         for (Film e: films) {
             System.out.println(e);
