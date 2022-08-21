@@ -75,13 +75,13 @@ This folder contains course notes and examples. A large "topics" comment is foun
 
 ### Part 10
 
-- [Streams](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/CollectionStreams/Stream.java)
-  - [Streams with objects](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/ObjectsAndStreams/Main.java)
-- [Lambda expressions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/LambdaExpressions/LambdaNotes.java)
+- [Streams](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/CollectionStreams/Stream.java)
+  - [Streams with objects](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/ObjectsAndStreams/Main.java)
+- [Lambda expressions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/LambdaExpressions/LambdaNotes.java)
 - Comparable interface (sorting objects)
-  - [compareTo() to use sorted() and Collections.sort()](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/ComparableInterface/Main.java)
-  - [Lambda expression as parameter for sorted() and Collections.sort()](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/LambdaSorting/Main.java)
-  - [Comparator class for multiple sorting criterion](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/CompareMultipleCriteria/Main.java)
-- [Enums](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/Enums/Level.java)
-- [Iterator object](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/IteratorObject/Main.java)
-- [Regular expressions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part 10/src/RegularExpressions/Main.java)
+  - [compareTo() to use sorted() and Collections.sort()](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/ComparableInterface/Main.java)
+  - [Lambda expression as parameter for sorted() and Collections.sort()](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/LambdaSorting/Main.java)
+  - [Comparator class for multiple sorting criterion](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/CompareMultipleCriteria/Main.java)
+- [Enums](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/Enums/Level.java)
+- [Iterator object](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/IteratorObject/Main.java)
+- [Regular expressions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/RegularExpressions/Main.java)
