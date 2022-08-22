@@ -85,3 +85,7 @@ This folder contains course notes and examples. A large "topics" comment is foun
 - [Enums](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/Enums/Level.java)
 - [Iterator object](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/IteratorObject/Main.java)
 - [Regular expressions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2010/src/RegularExpressions/Main.java)
+
+
+### Part 11
+- [Exceptions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2011/src/Exceptions/Main.java)
