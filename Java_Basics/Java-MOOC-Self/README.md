@@ -89,3 +89,9 @@ This folder contains course notes and examples. A large "topics" comment is foun
 
 ### Part 11
 - [Exceptions](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2011/src/Exceptions/Main.java)
+
+
+### Part 12
+- [Generic types](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2012/src/GenericTypes/Pair.java)
+- [2D Array](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2012/src/MutidimensionalArray/Main.java)
+- [Implementing a hash table](https://java-programming.mooc.fi/part-12/2-arraylist-and-hashtable)
