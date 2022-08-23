@@ -3,6 +3,7 @@ project tab         alt + 1
 structure tab       alt + 7
 
 switch tabs         ctrl + tab
+next/prev tab       alt + arrow
 close code tab      ctrl + f4
 close side tab      shift + esc
 

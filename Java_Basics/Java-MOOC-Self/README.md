@@ -93,5 +93,10 @@ This folder contains course notes and examples. A large "topics" comment is foun
 
 ### Part 12
 - [Generic types](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2012/src/GenericTypes/Pair.java)
-- [2D Array](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2012/src/MutidimensionalArray/Main.java)
+- [2D Array](https://github.com/MatthewChow03/Java-DSA/blob/main/Java_Basics/Java-MOOC-Self/Part%2012/src/MultidimensionalArray/Main.java)
 - [Implementing a hash table](https://java-programming.mooc.fi/part-12/2-arraylist-and-hashtable)
+
+
+### Part 13 and 14
+
+These parts go over GUIs and data visualization with the JavaFx library.
