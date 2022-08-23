@@ -1,10 +1,11 @@
-# [Problem XXX]()
+# Problem XXX
 
-## Problem Summary
+## [Problem Summary]()
 
 
 
-## My Solution
+
+## [My Solution](./main/MySolution.java)
 
 ### Thought Process
 
@@ -18,7 +19,7 @@
 
 
 
-## Optimal Solution
+## [Optimal Solution](./main/OptimalSolution.java)
 
 ### Explanation
 
